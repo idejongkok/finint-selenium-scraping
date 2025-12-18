@@ -1,0 +1,1 @@
+web buat latian scraping
